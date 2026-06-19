@@ -1,5 +1,4 @@
 name: DevOps Pipeline
-
   on:
     push:
       branches: ["main"]
